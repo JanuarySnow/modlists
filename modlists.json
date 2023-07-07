@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Nomad",
+    "description": "This is a wabbajack list for Fallout 4 that aims to shape the gameplay into a unique direction of solitude, atmosphere, and gritty immersion.",
+    "author": "JanuarySnow",
+    "maintainers": [
+      "github/JanuarySnow"
+    ],
+    "game": "Fallout4",
+    "tags": [
+      "testing",
+      "beta"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/JanuarySnow/Nomad/main/Cover/nomad-banner.webp",
+      "readme": "https://github.com/JanuarySnow/Nomad/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Nomad.wabbajack_2dc8d5f8-e71d-486f-b521-807bd0c16611",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/DffHKcszfg"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "QmtJE/3jF6M=",
+      "Size": 939923997,
+      "NumberOfArchives": 912,
+      "SizeOfArchives": 136832917595,
+      "NumberOfInstalledFiles": 30434,
+      "SizeOfInstalledFiles": 153099402542
+    },
+    "version": "0.97"
+  }
+]
