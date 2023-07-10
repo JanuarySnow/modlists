@@ -19,19 +19,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/JanuarySnow/Nomad/main/Cover/nomad-banner.webp",
       "readme": "https://github.com/JanuarySnow/Nomad/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nomad.wabbajack_abfa3592-3397-4ccc-ba80-eaa9e8dd4491",
+      "download": "https://authored-files.wabbajack.org/Nomad.wabbajack_f78282ee-52f9-4cf2-8207-aeaca107347a",
       "machineURL": "machineURL",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "+tbMasiuYLc=",
-      "Size": 774691638,
+      "Hash": "MitsXlhd5x0=",
+      "Size": 652060961,
       "NumberOfArchives": 912,
       "SizeOfArchives": 136832917595,
-      "NumberOfInstalledFiles": 30263,
-      "SizeOfInstalledFiles": 152911174227
+      "NumberOfInstalledFiles": 27724,
+      "SizeOfInstalledFiles": 152697049721
     },
-    "version": "0.971"
+    "version": "0.972"
   }
 ]
