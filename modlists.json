@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Nomad",
-    "description": "This is a wabbajack list for Fallout 4 that aims to shape the gameplay into a unique direction of solitude, atmosphere, and gritty immersion.",
+    "description": "This is an idiosyncratic list that completely changes the gameplay direction of Fallout 4, prioritising quick and lethal gunplay, gritty immersion, and a lonely atmosphere.",
     "author": "JanuarySnow",
     "maintainers": [
       "github/JanuarySnow"
@@ -10,7 +10,10 @@
     "game": "Fallout4",
     "tags": [
       "testing",
-      "beta"
+      "beta",
+      "Survival",
+      "Nevernude",
+      "Overhaul"
     ],
     "nsfw": false,
     "image_contains_title": false,
