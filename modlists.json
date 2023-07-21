@@ -22,21 +22,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/JanuarySnow/Nomad/main/Cover/nomad-banner.webp",
       "readme": "https://github.com/JanuarySnow/Nomad/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nomad.wabbajack_e55abba9-0616-4c84-85d8-7ea73bcca415",
+      "download": "https://authored-files.wabbajack.org/Nomad.wabbajack_c8c10438-e582-4a05-8880-6f56739ff98f",
       "machineURL": "Nomad",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "Fgh/4+ZrFxA=",
-      "Size": 795725928,
+      "Hash": "B3vYmb5adfs=",
+      "Size": 795725907,
       "NumberOfArchives": 938,
       "SizeOfArchives": 135695867428,
       "NumberOfInstalledFiles": 49826,
-      "SizeOfInstalledFiles": 152927556541
+      "SizeOfInstalledFiles": 152927556657
     },
     "version": "0.999",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-21T22:42:21.8991201Z",
+    "dateUpdated": "2023-07-21T22:50:25.168451Z",
     "repositoryName": ""
   }
 ]
