@@ -39,7 +39,7 @@
     "dateUpdated": "2023-07-31T18:03:58.7135608Z",
     "repositoryName": ""
   },
-    {
+  {
     "title": "Curseadelica",
     "description": "This is a lightweight, tightly focused modlist, which aims to keep mostly close to Bethesdas original vision for Skyrim, no massive overhauls or gameplay changes, with a unique visual style.",
     "author": "JanuarySnow",
@@ -61,21 +61,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/JanuarySnow/Curseadelica/main/screenshots/1.PNG",
       "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_ffca24c0-cea4-447c-9cdc-27294dfc7b42",
+      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_828b618b-1677-48a9-a6cf-99d509b9c924",
       "machineURL": "Curseadelica",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "Z3JgnjPg1b4=",
-      "Size": 128974848,
-      "NumberOfArchives": 962,
-      "SizeOfArchives": 11811160064,
-      "NumberOfInstalledFiles": 103927,
-      "SizeOfInstalledFiles": 50465865728
+      "Hash": "HNi4fNp+IlI=",
+      "Size": 129157659,
+      "NumberOfArchives": 404,
+      "SizeOfArchives": 25656219024,
+      "NumberOfInstalledFiles": 64725,
+      "SizeOfInstalledFiles": 38554694841
     },
     "version": "0.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-31T18:03:58.7135608Z",
+    "dateUpdated": "2023-08-03T11:42:48.7295175Z",
     "repositoryName": ""
   }
 ]
