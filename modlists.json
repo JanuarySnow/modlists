@@ -61,21 +61,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/JanuarySnow/Curseadelica/main/screenshots/1.PNG",
       "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_828b618b-1677-48a9-a6cf-99d509b9c924",
+      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_a27ad258-2bcc-4cba-b128-0f964ec0c78a",
       "machineURL": "Curseadelica",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "HNi4fNp+IlI=",
-      "Size": 129157659,
-      "NumberOfArchives": 404,
-      "SizeOfArchives": 25656219024,
-      "NumberOfInstalledFiles": 64725,
-      "SizeOfInstalledFiles": 38554694841
+      "Hash": "lfgwHgzGMoY=",
+      "Size": 129065584,
+      "NumberOfArchives": 401,
+      "SizeOfArchives": 25614717704,
+      "NumberOfInstalledFiles": 64531,
+      "SizeOfInstalledFiles": 38359029461
     },
-    "version": "0.5",
+    "version": "0.51",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-03T11:42:48.7295175Z",
+    "dateUpdated": "2023-08-06T18:18:22.9933938Z",
     "repositoryName": ""
   }
 ]
