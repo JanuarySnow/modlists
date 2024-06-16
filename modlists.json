@@ -34,5 +34,41 @@
       "SizeOfInstalledFiles": 167160231382
     },
     "version": "3.02"
+  },
+  {
+    "title": "Curseadelica VR",
+    "description": "Biblically accurate SkyrimVR",
+    "author": "JanuarySnow",
+    "maintainers": [
+      "github/JanuarySnow"
+    ],
+    "game": "skyrimvr",
+    "official": false,
+    "tags": [
+      "Overhaul",
+      "LOTD",
+      "Legacy of the Dragonborn",
+      "Simonrim"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Januarysnow/Curseadelica/main/SkyrimSE 2024-06-14 12-11-44.png",
+      "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Curseadelica%20VR.wabbajack_40282b90-e136-4d15-913c-ee949c94c782",
+      "machineURL": "CurseadelicaVR",
+      "discordURL": "https://discord.gg/xRrHRsb5e9"
+    },
+    "download_metadata": {
+      "Hash": "Y012b0s5+xs=",
+      "Size": 783580992,
+      "NumberOfArchives": 1287,
+      "SizeOfArchives": 110724583185,
+      "NumberOfInstalledFiles": 300426,
+      "SizeOfInstalledFiles": 176255375734
+    },
+    "version": "0.1"
   }
 ]
