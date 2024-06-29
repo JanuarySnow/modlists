@@ -17,23 +17,27 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Januarysnow/Curseadelica/main/SkyrimSE 2024-06-14 12-11-44.png",
       "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_a73c5285-a15b-48c1-95b2-fb9fb7ae8fd7",
+      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_26f309f7-f770-4d0a-900b-4ed3d893c913",
       "machineURL": "Curseadelica",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "Hash": "gtoWhRvvCMU=",
-      "Size": 214430859,
-      "NumberOfArchives": 983,
-      "SizeOfArchives": 100702056429,
-      "NumberOfInstalledFiles": 344068,
-      "SizeOfInstalledFiles": 167160231382
+      "Hash": "3jmEPred68Y=",
+      "Size": 182822816,
+      "NumberOfArchives": 984,
+      "SizeOfArchives": 100715564615,
+      "NumberOfInstalledFiles": 344047,
+      "SizeOfInstalledFiles": 166762007758
     },
-    "version": "3.02"
+    "version": "3.21",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-06-29T11:05:29.5649682Z",
+    "repositoryName": ""
   },
   {
     "title": "Curseadelica VR",
@@ -53,6 +57,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Januarysnow/Curseadelica/main/SkyrimSE 2024-06-14 12-11-44.png",
@@ -69,6 +74,9 @@
       "NumberOfInstalledFiles": 300426,
       "SizeOfInstalledFiles": 176255375734
     },
-    "version": "0.1"
+    "version": "0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
