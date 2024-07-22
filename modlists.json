@@ -7,12 +7,13 @@
       "github/JanuarySnow"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
       "Overhaul",
       "LOTD",
       "Legacy of the Dragonborn",
-      "Simonrim"
+      "Simonrim",
+      "official"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -47,12 +48,13 @@
       "github/JanuarySnow"
     ],
     "game": "skyrimvr",
-    "official": false,
+    "official": true,
     "tags": [
       "Overhaul",
       "LOTD",
       "Legacy of the Dragonborn",
-      "Simonrim"
+      "Simonrim",
+      "official"
     ],
     "nsfw": false,
     "utility_list": false,
