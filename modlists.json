@@ -7,7 +7,7 @@
       "github/JanuarySnow"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
       "Overhaul",
       "LOTD",
@@ -48,7 +48,7 @@
       "github/JanuarySnow"
     ],
     "game": "skyrimvr",
-    "official": true,
+    "official": false,
     "tags": [
       "Overhaul",
       "LOTD",
