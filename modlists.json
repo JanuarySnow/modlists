@@ -1,7 +1,7 @@
 [
   {
     "title": "Tempus Maledictum VR",
-    "description": "TESTING BUILD : What this is: An Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn't: A punishing Souls-like, real life survival simulator. I'm here to have fun. Are you?",
+    "description": "TESTING BUILD : What this is: An Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn\u0027t: A punishing Souls-like, real life survival simulator. I\u0027m here to have fun. Are you?",
     "author": "JanuarySnow and Lively",
     "maintainers": [
       "github/JanuarySnow"
@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/LivelyDismay/tempus-maledictum/main/tempusv7galleryimage.webp",
       "readme": "https://github.com/JanuarySnow/TempusVR",
-      "download": "https://authored-files.wabbajack.org/Tempus%20Maledictum%20VR.wabbajack_70081658-20ab-4c41-b947-efb54892b5fe",
+      "download": "https://authored-files.wabbajack.org/Tempus Maledictum VR.wabbajack_723c0b68-a6f1-4068-bca9-9465730d700e",
       "machineURL": "TempusVR",
       "discordURL": "https://discord.gg/yABEjwB"
     },
     "download_metadata": {
-      "Hash": "8bCGaOTe28A=",
-      "Size": 5804281281,
+      "Hash": "wG/KkDrTgF0=",
+      "Size": 5755373596,
       "NumberOfArchives": 1798,
-      "SizeOfArchives": 220267001923,
-      "NumberOfInstalledFiles": 474915,
-      "SizeOfInstalledFiles": 372973336121
+      "SizeOfArchives": 216806113358,
+      "NumberOfInstalledFiles": 475332,
+      "SizeOfInstalledFiles": 369817431840
     },
-    "version": "0.1",
-    "dateCreated": "2025-03-10T13:35:06.000Z",
-    "dateUpdated": "2025-03-10T13:35:06.000Z",
+    "version": "0.2",
+    "dateCreated": "2025-03-10T13:35:06Z",
+    "dateUpdated": "2025-03-12T13:57:55.0190242Z",
     "repositoryName": ""
   },
   {
