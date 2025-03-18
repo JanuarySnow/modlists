@@ -25,21 +25,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/LivelyDismay/tempus-maledictum/main/tempusv7galleryimage.webp",
       "readme": "https://github.com/JanuarySnow/TempusVR",
-      "download": "https://authored-files.wabbajack.org/Tempus Maledictum VR.wabbajack_d81927e2-8d47-42cb-9300-c47b485cc5ef",
+      "download": "https://authored-files.wabbajack.org/Tempus Maledictum VR.wabbajack_289f7807-d7df-4bec-8de1-f92135cc0cdb",
       "machineURL": "TempusVR",
-      "discordURL": "https://discord.gg/yABEjwB"
+      "discordURL": "https://discord.gg/yABEjwB",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "ShjYJDESd+Q=",
-      "Size": 5672875663,
-      "NumberOfArchives": 1800,
-      "SizeOfArchives": 216611972346,
-      "NumberOfInstalledFiles": 475458,
-      "SizeOfInstalledFiles": 369861970497
+      "Hash": "4sLKFVaKgvE=",
+      "Size": 5269071775,
+      "NumberOfArchives": 1803,
+      "SizeOfArchives": 225260101303,
+      "NumberOfInstalledFiles": 479358,
+      "SizeOfInstalledFiles": 381133295476,
+      "TotalSize": 606393396779
     },
-    "version": "0.32",
+    "version": "0.40",
     "dateCreated": "2025-03-10T13:35:06Z",
-    "dateUpdated": "2025-03-14T01:47:17.0011864Z",
+    "dateUpdated": "2025-03-18T22:57:37.5956446Z",
     "repositoryName": ""
   },
   {
@@ -68,7 +70,8 @@
       "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Curseadelica%20VR.wabbajack_40282b90-e136-4d15-913c-ee949c94c782",
       "machineURL": "CurseadelicaVR",
-      "discordURL": "https://discord.gg/xRrHRsb5e9"
+      "discordURL": "https://discord.gg/xRrHRsb5e9",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "Y012b0s5+xs=",
@@ -76,7 +79,8 @@
       "NumberOfArchives": 1287,
       "SizeOfArchives": 110724583185,
       "NumberOfInstalledFiles": 300426,
-      "SizeOfInstalledFiles": 176255375734
+      "SizeOfInstalledFiles": 176255375734,
+      "TotalSize": 286979958919
     },
     "version": "0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
