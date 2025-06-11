@@ -1,7 +1,7 @@
 [
   {
     "title": "Tempus Maledictum VR",
-    "description": "5GB Wabbajack file (itll take a while to download from gallery !) TESTING BUILD : What this is: An Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn\u0027t: A punishing Souls-like, real life survival simulator. I\u0027m here to have fun. Are you?",
+    "description": "What this is: An Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn\u0027t: A punishing Souls-like, real life survival simulator. I\u0027m here to have fun. Are you?",
     "author": "JanuarySnow and Lively",
     "maintainers": [
       "github/JanuarySnow"
@@ -20,23 +20,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/LivelyDismay/tempus-maledictum/main/tempusv7galleryimage.webp",
       "readme": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tempus Maledictum VR.wabbajack_37fb66ca-fb7b-41fb-9029-99dc14af7746",
+      "download": "https://authored-files.wabbajack.org/Tempus%20Maledictum%20VR.wabbajack_1c990de3-5e6b-4f9e-9427-5f443260081d",
       "machineURL": "TempusVR",
-      "discordURL": "https://discord.gg/yABEjwB",
-      "websiteURL": ""
+      "discordURL": "https://discord.gg/livelymods",
+      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md"
     },
     "download_metadata": {
-      "Hash": "74t6KrQZaFg=",
-      "Size": 5569913150,
-      "NumberOfArchives": 2064,
-      "SizeOfArchives": 252883084238,
-      "NumberOfInstalledFiles": 510964,
-      "SizeOfInstalledFiles": 428110435663,
-      "TotalSize": 680993519901
+      "Hash": "kIgp6c4fezI=",
+      "Size": 5337280544,
+      "NumberOfArchives": 2069,
+      "SizeOfArchives": 254760438981,
+      "NumberOfInstalledFiles": 506808,
+      "SizeOfInstalledFiles": 419012356106,
+      "TotalSize": 673772795087
     },
-    "version": "0.82",
+    "version": "0.83",
     "dateCreated": "2025-03-10T13:35:06Z",
-    "dateUpdated": "2025-06-03T18:25:46.8204938Z",
+    "dateUpdated": "2025-06-11T18:25:46.8204938Z",
     "repositoryName": ""
   },
   {
