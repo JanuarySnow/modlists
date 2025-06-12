@@ -7,10 +7,11 @@
       "github/JanuarySnow"
     ],
     "game": "skyrimvr",
-    "official": false,
+    "official": true,
     "tags": [
       "Total Overhaul",
-      "VR"
+      "VR",
+      "Official"
     ],
     "nsfw": false,
     "utility_list": false,
