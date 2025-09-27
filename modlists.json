@@ -82,48 +82,6 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": ""
-  },
-  {
-    "title": "TEST",
-    "description": "test",
-    "author": "JanuarySnow",
-    "maintainers": [
-      "github/JanuarySnow"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Overhaul",
-      "LOTD",
-      "Legacy of the Dragonborn",
-      "Simonrim",
-      "official"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Januarysnow/Curseadelica/main/banner.webp",
-      "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim Modding Essentials.wabbajack_42d60457-18b2-46e5-b466-62a004f727ff",
-      "machineURL": "test",
-      "discordURL": "https://discord.gg/xRrHRsb5e9",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "LBwVqZls5wE=",
-      "Size": 28247626,
-      "NumberOfArchives": 333,
-      "SizeOfArchives": 18531258776,
-      "NumberOfInstalledFiles": 21531,
-      "SizeOfInstalledFiles": 20446065494,
-      "TotalSize": 38977324270
-    },
-    "version": "0.2",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-25T00:05:41.6483021Z",
-    "repositoryName": ""
   }
+
 ]
