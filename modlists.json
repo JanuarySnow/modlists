@@ -21,23 +21,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/LivelyDismay/tempus-maledictum/main/tempusv7galleryimage.webp",
       "readme": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tempus%20Maledictum%20VR.wabbajack_b28e3a54-e464-49f7-9f14-d996e607659d",
+      "download": "https://authored-files.wabbajack.org/Tempus Maledictum VR.wabbajack_fb7bb6be-c828-4ff6-b428-377e3dde28c4",
       "machineURL": "TempusVR",
       "discordURL": "https://discord.gg/livelymods",
       "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md"
     },
     "download_metadata": {
-      "Hash": "1o+8zmOR7aY=",
-      "Size": 2537554891,
+      "Hash": "OmhL2DtEyYg=",
+      "Size": 2536885071,
       "NumberOfArchives": 2348,
       "SizeOfArchives": 290898751089,
-      "NumberOfInstalledFiles": 467605,
-      "SizeOfInstalledFiles": 400440316467,
-      "TotalSize": 691339067556
+      "NumberOfInstalledFiles": 467602,
+      "SizeOfInstalledFiles": 400438358153,
+      "TotalSize": 691337109242
     },
-    "version": "1.21",
+    "version": "1.14",
     "dateCreated": "2025-03-10T13:35:06Z",
-    "dateUpdated": "2025-11-22T10:42:01.3455334Z",
+    "dateUpdated": "2025-11-22T12:45:00.9702041Z",
     "repositoryName": ""
   },
   {
@@ -83,7 +83,4 @@
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": ""
   }
-
 ]
-
-
