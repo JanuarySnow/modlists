@@ -1,7 +1,7 @@
 [
   {
     "title": "Tempus Maledictum VR",
-    "description": "What this is: An Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn\u0027t: A punishing Souls-like, real life survival simulator. I\u0027m here to have fun. Are you?",
+    "description": "What this is: An Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn't: A punishing Souls-like, real life survival simulator. I'm here to have fun. Are you?",
     "author": "JanuarySnow and Lively",
     "maintainers": [
       "github/JanuarySnow"
@@ -93,7 +93,7 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-      "Total Overhaul",
+      "Total Overhaul"
     ],
     "nsfw": false,
     "utility_list": true,
@@ -122,6 +122,4 @@
     "dateUpdated": "2025-11-28T16:38:58.90319Z",
     "repositoryName": ""
   }
-
 ]
-
