@@ -103,14 +103,14 @@
     "links": {
       "image": "https://raw.githubusercontent.com/JanuarySnow/modlists/main/Screenshot%202026-01-25%20122244.png",
       "readme": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/testlist.wabbajack_3b1a9338-0e17-473d-9110-5d88b2ab8508",
+      "download": "https://authored-files.wabbajack.org/testlist.wabbajack_2f46744d-a513-4351-bd2f-a601fd69d5dd",
       "machineURL": "testlist",
       "discordURL": "https://discord.gg/livelymods",
       "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md"
     },
     "download_metadata": {
-      "Hash": "zt0a693fO2Y=",
-      "Size": 32988204,
+      "Hash": "P4xAiWasvjA=",
+      "Size": 32988216,
       "NumberOfArchives": 140,
       "SizeOfArchives": 4874509844,
       "NumberOfInstalledFiles": 20005,
@@ -119,7 +119,7 @@
     },
     "version": "0.2",
     "dateCreated": "2025-03-10T13:35:06Z",
-    "dateUpdated": "2026-01-25T13:14:49.0966427Z",
+    "dateUpdated": "2026-01-25T13:18:37.7064806Z",
     "repositoryName": ""
   }
 ]
