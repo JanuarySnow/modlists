@@ -108,13 +108,7 @@
       "download": "https://authored-files.wabbajack.org/testlist.wabbajack_e5db7c19-6fbd-43c0-8374-f53ca3fc8638",
       "machineURL": "testlist",
       "discordURL": "https://discord.gg/livelymods",
-      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
-      "nexusCollection": {
-        "collectionId": 401556,
-        "slug": "kc3xsk",
-        "domainName": "skyrimspecialedition",
-        "lastRevisionNumber": 1
-      }
+      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md"
     },
     "download_metadata": {
       "Hash": "Z8Uq5ZjdFWo=",
@@ -130,4 +124,5 @@
     "dateUpdated": "2026-01-25T13:21:43.7364014Z",
     "repositoryName": ""
   }
+
 ]
