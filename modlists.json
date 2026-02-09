@@ -21,24 +21,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/LivelyDismay/tempus-maledictum/main/tempusv7galleryimage.webp",
       "readme": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tempus Maledictum VR.wabbajack_24325d6b-e764-4384-bf50-2a8576e3da6e",
+      "download": "https://authored-files.wabbajack.org/Tempus Maledictum VR.wabbajack_9518af27-3399-4136-aff4-ea3d786c8a66",
       "machineURL": "TempusVR",
       "discordURL": "https://discord.gg/livelymods",
-      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
-      "nexusCollection": null
+      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md"
     },
     "download_metadata": {
-      "Hash": "HT387sv6n04=",
-      "Size": 2656677478,
+      "Hash": "YyTHdv18R/w=",
+      "Size": 2656677775,
       "NumberOfArchives": 2346,
       "SizeOfArchives": 287495067104,
       "NumberOfInstalledFiles": 467455,
-      "SizeOfInstalledFiles": 400157163224,
-      "TotalSize": 687652230328
+      "SizeOfInstalledFiles": 400157163328,
+      "TotalSize": 687652230432
     },
-    "version": "1.3",
+    "version": "1.4",
     "dateCreated": "2025-03-10T13:35:06Z",
-    "dateUpdated": "2026-02-05T17:24:23.6323114Z",
+    "dateUpdated": "2026-02-09T15:05:59.9765894Z",
     "repositoryName": ""
   },
   {
@@ -68,8 +67,7 @@
       "download": "https://authored-files.wabbajack.org/Curseadelica%20VR.wabbajack_40282b90-e136-4d15-913c-ee949c94c782",
       "machineURL": "CurseadelicaVR",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
-      "websiteURL": "",
-      "nexusCollection": null
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "Y012b0s5+xs=",
@@ -108,13 +106,7 @@
       "download": "https://authored-files.wabbajack.org/testlist.wabbajack_e5db7c19-6fbd-43c0-8374-f53ca3fc8638",
       "machineURL": "testlist",
       "discordURL": "https://discord.gg/livelymods",
-      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
-      "nexusCollection": {
-        "collectionId": 408036,
-        "slug": "s1alpd",
-        "domainName": "skyrimspecialedition",
-        "lastRevisionNumber": 1
-      }
+      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md"
     },
     "download_metadata": {
       "Hash": "Z8Uq5ZjdFWo=",
