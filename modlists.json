@@ -115,10 +115,10 @@
       "discordURL": "https://discord.gg/livelymods",
       "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
       "nexusCollection": {
-        "collectionId": 412295,
-        "slug": "ez8m46",
+        "collectionId": 401946,
+        "slug": "tyji63",
         "domainName": "skyrimspecialedition",
-        "lastRevisionNumber": 1
+        "lastRevisionNumber": 2
       }
     },
     "download_metadata": {
@@ -135,4 +135,5 @@
     "dateUpdated": "2026-01-25T13:21:43.7364014Z",
     "repositoryName": ""
   }
+
 ]
