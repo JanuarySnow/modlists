@@ -108,7 +108,13 @@
       "download": "https://authored-files.wabbajack.org/testlist.wabbajack_c2b61ede-d35c-4ee5-8d85-9d1f2cef7b31",
       "machineURL": "testlist",
       "discordURL": "https://discord.gg/livelymods",
-      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md"
+      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
+      "nexusCollection": {
+        "collectionId": "422153",
+        "slug": "kdpuf4",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "SA9KzVx3EcI=",
@@ -124,5 +130,4 @@
     "dateUpdated": "2026-03-09T17:40:52.8577714Z",
     "repositoryName": ""
   }
-
 ]
