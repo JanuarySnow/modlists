@@ -129,5 +129,44 @@
     "dateCreated": "2025-03-10T13:35:06Z",
     "dateUpdated": "2026-03-09T17:40:52.8577714Z",
     "repositoryName": ""
+  },
+  {
+    "title": "testlistBG3",
+    "description": "testlist pls ignore",
+    "author": "JanuarySnow",
+    "maintainers": [
+      "github/JanuarySnow"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Total Overhaul"
+    ],
+    "nsfw": false,
+    "utility_list": true,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/JanuarySnow/modlists/main/Screenshot%202026-01-25%20122244.png",
+      "readme": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_282ebb38-8759-40a9-8b28-102a1ac77489",
+      "machineURL": "testlistbg3",
+      "discordURL": "https://discord.gg/livelymods",
+      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md"
+    },
+    "download_metadata": {
+      "Hash": "rBJpJcUwHY8=",
+      "Size": 1774254,
+      "NumberOfArchives": 1,
+      "SizeOfArchives": 149660212,
+      "NumberOfInstalledFiles": 1656,
+      "SizeOfInstalledFiles": 412296459,
+      "TotalSize": 561956671
+    },
+    "version": "0.1",
+    "dateCreated": "2025-03-10T13:35:06Z",
+    "dateUpdated": "2026-03-09T17:40:52.8577714Z",
+    "repositoryName": ""
   }
 ]
