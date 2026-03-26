@@ -153,7 +153,13 @@
       "download": "https://authored-files.wabbajack.org/Default.wabbajack_282ebb38-8759-40a9-8b28-102a1ac77489",
       "machineURL": "testlistbg3",
       "discordURL": "https://discord.gg/livelymods",
-      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md"
+      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
+      "nexusCollection": {
+        "collectionId": "429073",
+        "slug": "pmt5iz",
+        "domainName": "baldursgate3",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "rBJpJcUwHY8=",
