@@ -113,13 +113,7 @@
       "download": "https://authored-files.wabbajack.org/testlist.wabbajack_b5ae0390-9a27-4797-bf81-cbad72da84a2",
       "machineURL": "testlist",
       "discordURL": "https://discord.gg/livelymods",
-      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md",
-      "nexusCollection": {
-        "collectionId": "422573",
-        "slug": "f2pcpu",
-        "domainName": "skyrimspecialedition",
-        "lastRevisionNumber": 3
-      }
+      "websiteURL": "https://github.com/JanuarySnow/TempusVR/blob/main/README.md"
     },
     "download_metadata": {
       "Hash": "SvfohyElSsk=",
